@@ -1,0 +1,14 @@
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\eingabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\eingabe.AssemblyInfoInputs.cache
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\eingabe.AssemblyInfo.cs
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\eingabe.csproj.CoreCompileInputs.cache
+C:\Users\glaDOS\source\repos\eingabe\eingabe\bin\Debug\net8.0\eingabe.exe
+C:\Users\glaDOS\source\repos\eingabe\eingabe\bin\Debug\net8.0\eingabe.deps.json
+C:\Users\glaDOS\source\repos\eingabe\eingabe\bin\Debug\net8.0\eingabe.runtimeconfig.json
+C:\Users\glaDOS\source\repos\eingabe\eingabe\bin\Debug\net8.0\eingabe.dll
+C:\Users\glaDOS\source\repos\eingabe\eingabe\bin\Debug\net8.0\eingabe.pdb
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\eingabe.dll
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\refint\eingabe.dll
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\eingabe.pdb
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\eingabe.genruntimeconfig.cache
+C:\Users\glaDOS\source\repos\eingabe\eingabe\obj\Debug\net8.0\ref\eingabe.dll
